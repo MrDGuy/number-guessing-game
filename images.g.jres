@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQfACAAAAD//////////7vbvbu7+///////////v7u7u727u7v/////////v727u7u9u7u7+///////vbu7u7u7vcy8u/v/////27u7u7u728vMzMy7///fu9u92927u9u7u7u7u/v/v7vbu9vdu7vbu7u7u7u7/7+7u7vd3bu727u7u7u7u/+/u927u7u7u9u7u7u7u9v/v7vbu7vbu7vbu7u7u8z8/7+7u7u7u7u73czLzMzM+/+/u7u7u7u7u83MzMzMzP//u7u7u7u7u9vLzMzMzLz//7u7u7u7u7u9zMzMzMz8/7+7u7u7u9vdy8zMzMzM/P+/u7u83d3dvczMzMzMzP//vbu7zNzd3czMzMzMzMz//7u7u8zMzMzMzMzMzMy8//+7u7vMzMzMzMzMzMzM/P//u7u7y8zMzMzMzMzMzPz//7u7u9u7u7u7u7vMzMz///+9u7vbu7u7u7u7y8zM////v7u727u7u7u7u8vMzP///7+7u9u7u8vMzMzMzLz/////u7vbzMzMzMzMzMz8/////7u7u8zMzMzMzMzM/f////+7u8vMzMzMzMzMzP//////v7vMzMzMzMzMzP3//////9/LzMzMzMzMzPz/////////z8zMzMzMzPv////////////fzMzM+///////////",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rock"
+    },
+    "image2": {
+        "data": "hwQfACAAAAD//+7+////////7u7u7v///727u////7+7u7u7u7u7///t3e3////v7u7d3d3d7v/v293dzu/u3t3d3evd3d3+79vd3e7e3d3t3d7L3d3d/u/b3d3u3t3d7d3ey93d3f7v293d7t3d3s3d3Mvd3d3+79vd3e7t29zN3dzL3d3d/u/b3d3u7dvczd3ey93d3f7v293d7s3b3M3d3cvd3d3+79vd3e7N29zN3d7d3d3d/u/b3d3uzdvdzd3c693d3f7v293d7s3b3c3d3Ovd3d3+79vd3e7N297N3dzL3d3d/u/b3d3uzdvczd3c3e3e3f7v293d7s3b3M3d3N3t3t3+79vd3e7N29zd3dzd7d/d/u/b3d3u3d3d7d3c3c3f3f7v293d7r3b283d3N29293+79vd3e7t297N3dzd3d3d/u/b7d7uzdvczd3d3e7u3f7v297t7s3b3d3dzOzd3e7+79ve7e7N293d3e7u3d3u/v/t3d3d3d3t7u7v293dvf7//97d3e3u3v//79vd3b3+//+7u7u7u9v//+/b3d29/v//7+7u/v/////v293dvf7/////////////79vd3e7//////////////9/r7u7/////////////////6+7u////////////////////////",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "paper"
+    },
+    "image3": {
+        "data": "hwQfACAAAAD///////////////////////////////////////////////////////////////////8vIiL/////////////////LyIi/////////////////yLyL/L///////////////8i//8i////////////////L/L/L/L///////////////zi/Pzy////////////////Iv//8v///////////////y/yL/L/////////////////IiLy//////////////////8i3/z/////////////////It/8///////////////////dzczMzMzM////IiIiIiLy/d3d3d3d3cz//yLy/y8i8t3d3d3d3d3d/P8iz8z8Is+7u7u7u7u7u/z/Iv///yLPzMzMzMzMzMz8/yL//y/y///Pu8v///////8v8v8i/////7y7/P///////yIi8v/////Pu8v///////8iIvL/////z7vL//////////////////+8u/z/////////////////z7vL//////////////////+8u8z/////////////////y7zL/////////////////8+8y///////////////////z8z/////////////////////////////////////////////",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "scissors"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
